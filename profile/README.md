@@ -6,6 +6,6 @@ We structure regulations from all 357 municipalities into machine-readable rules
 
 69,500+ regulations extracted so far. Still pre-launch.
 
-Laravel | React | TypeScript | MapLibre GL JS | PostGIS | Cloudflare Workers
+Laravel  |  React  |  TypeScript  |  MapLibre GL JS  |  PostGIS  |  Cloudflare Workers
 
 [saumfar.no](https://saumfar.no)
